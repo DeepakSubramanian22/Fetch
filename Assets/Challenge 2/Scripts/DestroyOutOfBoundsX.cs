@@ -5,7 +5,7 @@ using UnityEngine;
 public class DestroyOutOfBoundsX : MonoBehaviour
 {
     private float leftLimit = -40;
-    private float bottomLimit = -1;
+    private float bottomLimit = -10;
 
     // Update is called once per frame
     void Update()
